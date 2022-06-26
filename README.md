@@ -16,7 +16,7 @@ sudo apt-get upgrade -y
 ```bash
 sudo apt-get install  g++ git subversion automake libtool zlib1g-dev libicu-dev libboost-all-dev libbz2-dev liblzma-dev python-dev graphviz imagemagick make cmake libgoogle-perftools-dev autoconf doxygen
 ```
-Untuk distro linux selain ubunut cara nya bisa cek [disini](http://www2.statmt.org/moses/?n=Development.GetStarted)
+Untuk distro linux selain ubuntu cara nya bisa cek [disini](http://www2.statmt.org/moses/?n=Development.GetStarted)
 
 ## Clone Project
 Clone projek ini dengan terminal 
